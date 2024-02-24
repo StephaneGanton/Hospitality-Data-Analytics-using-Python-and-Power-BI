@@ -18,7 +18,8 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
  - Python: [clic here]() to the access Notebook
 
 ### 3- Overview
-![overvieew](./Power BI/Overview.png)
+![overvieew](./Power%20BI/Overview.png)
+
 
 ### 4 - Takeaways
 💡 What I've learned along the way:
