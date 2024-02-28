@@ -25,7 +25,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 💡 What I've learned along the way:
 
  - Understanting of **Revenue function** in Hospitality Domain.
- - Understanding of key concepts and impotant metrics in Hospitality domain:
+ - Understanding of key concepts and important metrics in Hospitality domain:
 
     - Revenue Per Available Room (RevPAR)
     - Daily Sellable Room Nights (DSRN)
