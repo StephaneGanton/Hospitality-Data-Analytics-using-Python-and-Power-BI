@@ -5,7 +5,7 @@ This project is my solution to the [Project Challenge #1](https://codebasics.io/
 - Domain:  **Hospitality**
 - Business Function: **Revenue**
 
-- Live Dashboard:
+- Live Dashboard: [Go live here](https://www.novypro.com/project/insights-to-revenue-team-in-hospitality-domain)
 
 ### 1- Problem Statement
 
